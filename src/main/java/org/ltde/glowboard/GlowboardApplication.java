@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GlowboardApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(GlowboardApplication.class, args);
+
     }
 
 }
